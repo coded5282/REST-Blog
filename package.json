@@ -1,0 +1,19 @@
+{
+  "name": "restfulblog",
+  "version": "1.0.0",
+  "description": "RESTful blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coded5282/REST-Blog.git"
+  },
+  "author": "Edward Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coded5282/REST-Blog/issues"
+  },
+  "homepage": "https://github.com/coded5282/REST-Blog#readme"
+}
